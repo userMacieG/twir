@@ -72,6 +72,10 @@ export const AVAILABLE_LOCALES = [
 		code: 'sk',
 		name: 'Slovenčina',
 	},
+	{
+		code: 'pl',
+		name: 'Polski',
+	},
 ]
 
 function setupI18n(): I18n {
